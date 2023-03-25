@@ -9,7 +9,7 @@ publish:
 all: push build cleanup publish
 
 cleanup:
-	mv *.vsix ./build/
+	mv *.vsix ./build/ || true
 
 push:
 	git add .
