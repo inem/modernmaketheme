@@ -1,3 +1,4 @@
-*.vsix
-bak
 .DS_Store
+*.vsix
+build
+tmp
