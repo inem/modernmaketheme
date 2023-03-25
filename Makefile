@@ -21,6 +21,7 @@ push!:
 
 open:
 	open https://marketplace.visualstudio.com/manage/publishers/nemytchenko/extensions/modernmaketheme/hub?_a=acquisition
+	open https://marketplace.visualstudio.com/items?itemName=nemytchenko.modernmaketheme
 
 publisher:
 	open https://dev.azure.com/nemytchenko/
