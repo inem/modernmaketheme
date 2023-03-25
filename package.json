@@ -1,7 +1,7 @@
 {
   "name": "modernmaketheme",
   "displayName": "Modern Make Theme",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "description": "Modern Make Yellow theme for Visual Studio Code",
   "publisher": "nemytchenko",
   "repository": {
@@ -16,7 +16,7 @@
   ],
   "onCommand:workbench.action.reloadWindow": {
     "files": [
-        "themes/modernmaketheme.json"
+      "themes/modernmaketheme.json"
     ]
   }
 }
