@@ -1,0 +1,12 @@
+{
+  "name": "My Theme",
+  "colors": {
+    "editor.background": "#f6e33a",
+    "editor.foreground": "#111111",
+    "editor.selectionBackground": "#ADD8E6",
+    "editor.inactiveSelectionBackground": "#D3D3D3",
+    "editor.lineHighlightBackground": "#F0FFF0",
+    "editorCursor.foreground": "#FF0000",
+    "editorWhitespace.foreground": "#BFBFBF"
+  }
+}
