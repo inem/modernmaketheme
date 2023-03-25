@@ -28,3 +28,6 @@ publisher:
 
 howto:
 	open https://code.visualstudio.com/api/working-with-extensions/publishing-extension
+
+generate:
+	open https://coder-coder.com/vs-code-theme-color-generator/

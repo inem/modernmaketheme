@@ -1,7 +1,7 @@
 {
-  "name": "Modern Make",
+  "name": "Modern Make Theme",
     "$schema": "vscode://schemas/color-theme",
-    "type": "dark",
+    "type": ",",
     "colors": {
       "activityBar.background": "#000000",
       "activityBar.border": "#00000060",
