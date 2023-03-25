@@ -6,7 +6,7 @@
       "activityBar.background": "#F6E33A",
       "activityBar.border": "#F6E33A60",
       "activityBar.foreground": "#000000",
-      "activityBarBadge.background": "#2A2A2B",
+      "activityBarBadge.background": "#FDB66B",
       "activityBarBadge.foreground": "#F6E33A",
       "badge.background": "#F6E33A30",
       "badge.foreground": "#2A2A2B",
@@ -29,9 +29,9 @@
       "editor.findMatchHighlightBorder": "#33333330",
       "editor.foreground": "#000000",
       "editor.lineHighlightBackground": "#F6E33A50",
-      "editor.selectionBackground": "#2A2A2B30",
+      "editor.selectionBackground": "#FDB66B30",
       "editor.selectionHighlightBackground": "#2A2A2B6b",
-      "editor.selectionHighlightBorder": "#2A2A2Bf0",
+      "editor.selectionHighlightBorder": "#FDB66Bf0",
       "editorBracketMatch.background": "#F6E33A",
       "editorBracketMatch.border": "#FF2B6D7f",
       "editorCursor.foreground": "#FF2B6D",
@@ -40,20 +40,20 @@
       "editorGroupHeader.tabsBackground": "#F6E33A",
       "editorGutter.addedBackground": "#E81A1A60",
       "editorGutter.deletedBackground": "#2A2A2B60",
-      "editorGutter.modifiedBackground": "#2A2A2B60",
+      "editorGutter.modifiedBackground": "#FDB66B60",
       "editorHoverWidget.background": "#F6E33A",
       "editorHoverWidget.border": "#33333310",
       "editorIndentGuide.activeBackground": "#FFF957",
       "editorIndentGuide.background": "#FFF95770",
-      "editorInfo.foreground": "#2A2A2B70",
-      "editorLineNumber.activeForeground": "#2A2A2B",
+      "editorInfo.foreground": "#FDB66B70",
+      "editorLineNumber.activeForeground": "#FDB66B",
       "editorLineNumber.foreground": "#2A2A2Bc0",
       "editorLink.activeForeground": "#000000",
       "editorMarkerNavigation.background": "#00000005",
       "editorOverviewRuler.border": "#F6E33A",
       "editorOverviewRuler.errorForeground": "#2A2A2B40",
       "editorOverviewRuler.findMatchForeground": "#2A2A2B",
-      "editorOverviewRuler.infoForeground": "#2A2A2B40",
+      "editorOverviewRuler.infoForeground": "#FDB66B40",
       "editorOverviewRuler.warningForeground": "#FF2B6D70",
       "editorRuler.foreground": "#FFF957",
       "editorSuggestWidget.background": "#F6E33A",
@@ -73,7 +73,7 @@
       "gitDecoration.deletedResourceForeground": "#2A2A2B",
       "gitDecoration.ignoredResourceForeground": "#2A2A2B",
       "gitDecoration.modifiedResourceForeground": "#646467",
-      "gitDecoration.untrackedResourceForeground": "#2A2A2B",
+      "gitDecoration.untrackedResourceForeground": "#FDB66B",
       "input.background": "#F6E33A",
       "input.border": "#33333310",
       "input.foreground": "#000000",
@@ -81,12 +81,12 @@
       "inputOption.activeBackground": "#00000030",
       "inputOption.activeBorder": "#00000030",
       "inputValidation.errorBorder": "#2A2A2B50",
-      "inputValidation.infoBorder": "#2A2A2B50",
+      "inputValidation.infoBorder": "#FDB66B50",
       "inputValidation.warningBorder": "#FF2B6D50",
       "list.activeSelectionBackground": "#F6E33A",
       "list.activeSelectionForeground": "#2A2A2B",
       "list.focusBackground": "#F6E33A",
-      "list.focusForeground": "#2A2A2B",
+      "list.focusForeground": "#FDB66B",
       "list.highlightForeground": "#2A2A2B",
       "list.hoverBackground": "#FFF957",
       "list.hoverForeground": "#333333",
@@ -149,10 +149,10 @@
       "settings.textInputForeground": "#000000",
       "sideBar.background": "#F6E33A",
       "sideBar.border": "#2A2A2B50",
-      "sideBar.foreground": "#2A2A2B",
+      "sideBar.foreground": "#FDB66B",
       "sideBarSectionHeader.background": "#F6E33A",
       "sideBarSectionHeader.border": "#F6E33A60",
-      "sideBarSectionHeader.foreground": "#2A2A2B",
+      "sideBarSectionHeader.foreground": "#FDB66B",
       "sideBarTitle.foreground": "#000000",
       "statusBar.background": "#F6E33A",
       "statusBar.border": "#F6E33A60",
@@ -176,16 +176,16 @@
       "tab.unfocusedInactiveBackground": "#2A2A2B10",
       "tab.unfocusedInactiveForeground": "#0000007f",
       "terminal.ansiBlack": "#F6E33A",
-      "terminal.ansiBlue": "#2A2A2B",
+      "terminal.ansiBlue": "#FDB66B",
       "terminal.ansiBrightBlack": "#2A2A2B",
-      "terminal.ansiBrightBlue": "#2A2A2B",
-      "terminal.ansiBrightCyan": "#815F3E",
+      "terminal.ansiBrightBlue": "#FDB66B",
+      "terminal.ansiBrightCyan": "#FDB66B",
       "terminal.ansiBrightGreen": "#E81A1A",
       "terminal.ansiBrightMagenta": "#FF2B6D",
       "terminal.ansiBrightRed": "#2A2A2B",
       "terminal.ansiBrightWhite": "#333333",
       "terminal.ansiBrightYellow": "#FF2B6D",
-      "terminal.ansiCyan": "#815F3E",
+      "terminal.ansiCyan": "#FDB66B",
       "terminal.ansiGreen": "#E81A1A",
       "terminal.ansiMagenta": "#FF2B6D",
       "terminal.ansiRed": "#2A2A2B",
@@ -415,7 +415,7 @@
           "source.sass keyword.control"
         ],
         "settings": {
-          "foreground": "#2A2A2B"
+          "foreground": "#FDB66B"
         }
       },
       {
@@ -424,7 +424,7 @@
           "punctuation.definition.string.end.html"
         ],
         "settings": {
-          "foreground": "#815F3E"
+          "foreground": "#FDB66B"
         }
       },
       {
@@ -531,7 +531,7 @@
           "tag.decorator.js punctuation.definition.tag.js"
         ],
         "settings": {
-          "foreground": "#2A2A2B",
+          "foreground": "#FDB66B",
           "fontStyle": "italic"
         }
       },
@@ -598,7 +598,7 @@
           "string.regexp"
         ],
         "settings": {
-          "foreground": "#815F3E"
+          "foreground": "#FDB66B"
         }
       },
       {
@@ -606,7 +606,7 @@
           "constant.character.escape"
         ],
         "settings": {
-          "foreground": "#815F3E"
+          "foreground": "#FDB66B"
         }
       },
       {
@@ -685,7 +685,7 @@
           "markup.underline"
         ],
         "settings": {
-          "foreground": "#2A2A2B",
+          "foreground": "#FDB66B",
           "fontStyle": "underline"
         }
       },
@@ -743,7 +743,7 @@
           "punctuation.definition.markdown"
         ],
         "settings": {
-          "foreground": "#815F3E"
+          "foreground": "#FDB66B"
         }
       },
       {
@@ -784,7 +784,7 @@
       {
         "scope": "token.debug-token",
         "settings": {
-          "foreground": "#815F3E"
+          "foreground": "#FDB66B"
         }
       }
     ]
