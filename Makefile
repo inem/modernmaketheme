@@ -31,3 +31,5 @@ howto:
 
 generate:
 	open https://coder-coder.com/vs-code-theme-color-generator/
+
+.PHONY: build
