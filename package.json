@@ -16,11 +16,6 @@
 	],
 	"contributes": {
 		"themes": [
-			// {
-			// 	"label": "Modern Make Yellow Dark",
-			// 	"uiTheme": "vs-dark",
-			// 	"path": "./themes/Modern Make Dark Yellow-color-theme.json"
-			// },
 			{
 				"label": "Modern Make Yellow Light",
 				"uiTheme": "hc-light",
@@ -28,16 +23,4 @@
 			}
 		]
 	}
-  // ,
-	// "__metadata": {
-	// 	"id": "a48d9790-a2ba-41b4-b4f1-b676f615b41f",
-	// 	"publisherId": "e4445915-74ca-4aa4-9eec-66282edaf8cf",
-	// 	"publisherDisplayName": "Nicolai Verbaarschot",
-	// 	"targetPlatform": "undefined",
-	// 	"isApplicationScoped": false,
-	// 	"updated": false,
-	// 	"isPreReleaseVersion": false,
-	// 	"preRelease": false,
-	// 	"installedTimestamp": 1665045033480
-	// }
 }
