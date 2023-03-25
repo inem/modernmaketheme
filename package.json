@@ -1,22 +1,43 @@
 {
-  "name": "modernmaketheme",
-  "displayName": "Modern Make Theme",
-  "version": "0.10.0",
-  "description": "Modern Make Yellow theme for Visual Studio Code",
-  "publisher": "nemytchenko",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/inem/modernmaketheme.git"
-  },
-  "engines": {
-    "vscode": "^1.0.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "onCommand:workbench.action.reloadWindow": {
-    "files": [
-      "themes/modernmaketheme.json"
-    ]
-  }
+	"publisher": "nemytchenko",
+	"name": "modernmaketheme",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/inem/modernmaketheme.git"
+	},
+	"displayName": "Modern Make Theme",
+	"description": "Modern Make Yellow theme",
+	"version": "0.10.0",
+	"engines": {
+		"vscode": "^1.62.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			// {
+			// 	"label": "Modern Make Yellow Dark",
+			// 	"uiTheme": "vs-dark",
+			// 	"path": "./themes/Modern Make Dark Yellow-color-theme.json"
+			// },
+			{
+				"label": "Modern Make Yellow Light",
+				"uiTheme": "hc-light",
+				"path": "./themes/Modern Make Light Yellow-color-theme.json"
+			}
+		]
+	}
+  // ,
+	// "__metadata": {
+	// 	"id": "a48d9790-a2ba-41b4-b4f1-b676f615b41f",
+	// 	"publisherId": "e4445915-74ca-4aa4-9eec-66282edaf8cf",
+	// 	"publisherDisplayName": "Nicolai Verbaarschot",
+	// 	"targetPlatform": "undefined",
+	// 	"isApplicationScoped": false,
+	// 	"updated": false,
+	// 	"isPreReleaseVersion": false,
+	// 	"preRelease": false,
+	// 	"installedTimestamp": 1665045033480
+	// }
 }
