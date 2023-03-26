@@ -9,7 +9,7 @@ publish:
 all: push build cleanup publish
 
 cleanup:
-	rm ./build/*.vsix || true
+	rm ./build/*.vsix
 	mv *.vsix ./build/ || true
 
 push:
