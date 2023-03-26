@@ -22,6 +22,13 @@
 				"uiTheme": "hc-light",
 				"path": "./themes/Modern Make Light Yellow-color-theme.json"
 			}
-		]
+		],
+		"welcomePage": {
+			"content": {
+				"logoPath": "images/logo.png"
+			}
+		}
+
 	}
+
 }
