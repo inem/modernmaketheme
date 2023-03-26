@@ -83,7 +83,7 @@
       "inputValidation.errorBorder": "#FDB66B50",
       "inputValidation.infoBorder": "#2A2A2B50",
       "inputValidation.warningBorder": "#E81A1A50",
-      "list.activeSelectionBackground": "#F6E33A",
+      "list.activeSelectionBackground": "#FDB66B",
       "list.activeSelectionForeground": "#2A2A2B",
       "list.focusBackground": "#F6E33A",
       "list.focusForeground": "#2A2A2B",
