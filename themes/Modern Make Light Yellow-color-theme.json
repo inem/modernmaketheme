@@ -321,7 +321,7 @@
           "string.quoted.single.scss"
         ],
         "settings": {
-          "foreground": "#A7A8AF"
+          "foreground": "#8f5f0d"
         }
       },
       {
@@ -342,7 +342,7 @@
           "comment.block.html"
         ],
         "settings": {
-          "foreground": "#6D6F7C"
+          "foreground": "#7046fb"
         }
       },
       {
