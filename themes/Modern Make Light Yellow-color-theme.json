@@ -70,7 +70,7 @@
       "extensionButton.prominentHoverBackground": "#FDB66B",
       "focusBorder": "#33333300",
       "gitDecoration.conflictingResourceForeground": "#E81A1A",
-      "gitDecoration.deletedResourceForeground": "#FDB66B",
+      "gitDecoration.deletedResourceForeground": "#d3844b",
       "gitDecoration.ignoredResourceForeground": "#2A2A2B",
       "gitDecoration.modifiedResourceForeground": "#d3554b",
       "gitDecoration.untrackedResourceForeground": "#2A2A2B",
@@ -582,7 +582,7 @@
           "markup.deleted"
         ],
         "settings": {
-          "foreground": "#FDB66B"
+          "foreground": "#d3844b"
         }
       },
       {
